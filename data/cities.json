@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-09-20T18:05:41.551Z",
+      "notes": "nice trip",
+      "position": {
+        "lat": "29.70976693003172",
+        "lng": "31.2802729010582"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Vitry-sur-Seine",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-06T18:06:01.000Z",
+      "notes": "",
+      "position": {
+        "lat": "48.80095718715861",
+        "lng": "2.368652075529099"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Bni Tadjite",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-09-20T18:06:35.253Z",
+      "notes": "",
+      "position": {
+        "lat": "32.26192054346793",
+        "lng": "-3.1816416978836064"
+      },
+      "id": 3
+    }
+  ]
+}
